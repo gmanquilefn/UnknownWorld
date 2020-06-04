@@ -1748,3 +1748,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.04-16.25.13:097][284]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.06.04-16.25.13:103][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2020.06.04-16.25.13:129][286]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.06.04-16.29.23:928][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.06.04-16.29.24:213][855]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/2DSideScrollerExampleMap1_Auto2925C8FCB4A883F5267BD2AAB1084D15F.tmp' to '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap1_Auto2.umap'
+[2020.06.04-16.29.24:216][855]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap1' took 0.325
+[2020.06.04-16.29.24:216][855]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.325
+[2020.06.04-16.29.24:216][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Personaje/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.06.04-16.29.24:216][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personaje/2DSideScrollerCharacter]
+[2020.06.04-16.29.24:342][855]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/2DSideScrollerCharacter_Auto217AFBF6B4D7114277BAA3D9C966B7D28.tmp' to '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/Autosaves/Game/Personaje/2DSideScrollerCharacter_Auto2.uasset'
+[2020.06.04-16.29.24:344][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/MainMenu] ([1] browsable assets)...
+[2020.06.04-16.29.24:344][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/MainMenu]
+[2020.06.04-16.29.24:344][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/MainMenu" FILE="../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/Autosaves/Game/Menu/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.06.04-16.29.24:357][855]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/MainMenu_Auto28A86C43D4D8E5BE0A9D7AFAB4949D34E.tmp' to '../../../../../../Users/mario/Desktop/T1 VideoJuegos/UnknownWorld/Saved/Autosaves/Game/Menu/MainMenu_Auto2.uasset'
+[2020.06.04-16.29.24:357][855]LogFileHelpers: Auto-saving content packages took 0.141
