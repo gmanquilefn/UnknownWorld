@@ -1,7 +1,8 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+Binaries/Win64/*
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
 .vscode
 .vs
 *.VC.db
@@ -12,3 +13,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.user
+*.sln.docstates
+*.opendb
+*.db
